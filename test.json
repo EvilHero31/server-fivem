@@ -1,5 +1,5 @@
 {
-    "gabitzu" : false,
-    "sweed" : true,
-    "nemernic" : true,
+    "gabitzu" : true,
+    "sweed" : false,
+    "nemernic" : false,
 }
